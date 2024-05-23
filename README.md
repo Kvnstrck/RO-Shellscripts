@@ -2,5 +2,12 @@
 
 ## Benutzung
 
-1. Skripte auf den Server übertragen
-2. Befehl _bash **Skriptname.sh** **Code.xx**
+### Assembler:
+
+```
+bash AssemblerCompiler.sh AufgabeXY.s
+```
+### C:
+```
+bash CCompiler.sh AufgabeXY.c
+```
