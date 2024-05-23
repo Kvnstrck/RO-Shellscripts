@@ -11,3 +11,5 @@ bash AssemblerCompiler.sh AufgabeXY.s
 ```
 bash CCompiler.sh AufgabeXY.c
 ```
+
+Credit: Thobbe42 on github
